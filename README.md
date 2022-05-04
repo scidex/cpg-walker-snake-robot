@@ -5,6 +5,6 @@ The project code can be used to let a biped and a snake robot to move using cent
 
 **Biped neural network definition:**
 
-![Biped Network colored_new](https://user-images.githubusercontent.com/33239037/166722918-281d1e29-6cf0-44f5-986c-94e69e74f11c.png)
+![grafik](https://user-images.githubusercontent.com/33239037/166723405-357641e2-6a44-4d71-9d64-3bffcefd205f.png)
 
 Contributors: Ahmed Almijbari, Runfeng Lyu, Nathan van Beelen and Bertram Fuchs
