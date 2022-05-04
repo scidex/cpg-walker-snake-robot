@@ -1,0 +1,9 @@
+Parameter changing:
+
+1. hips: *0.88 --> walked slower but more stable
+
+--> block movement during the first second.
+
+2. hips: *1.0 --> falls
+
+3. T: 

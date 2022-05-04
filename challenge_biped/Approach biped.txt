@@ -1,0 +1,15 @@
+1. Only control hip, knee | ankle fixed
+2. figure out phase, amplitude
+3. copy to other body side (180° phase shift)
+4. control ankle
+
+
+1. Make two neurons oscillate nicely!
+
+
+# TODOs:
+How to implement phase, amplitude?
+1. How can we generate Fig. 2 output?
+2. How can we change the amplitude?
+3. How can we change the frequency?
+4. How can we change the phase (shifting / at which point does it start)?
